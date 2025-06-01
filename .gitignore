@@ -1,3 +1,6 @@
 env/
 .cursor/
 .env
+files/
+01 challenge/.cache/
+files/chapter_one.txt
